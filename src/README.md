@@ -62,3 +62,8 @@ Steps:
 - Ensure `admin@admin.com` exists in the `users` table.
 
 Security warning: enabling this in production is extremely unsafe. Only enable temporarily on trusted developer machines.
+
+
+Publish 
+
+	https://pkmueu.online
